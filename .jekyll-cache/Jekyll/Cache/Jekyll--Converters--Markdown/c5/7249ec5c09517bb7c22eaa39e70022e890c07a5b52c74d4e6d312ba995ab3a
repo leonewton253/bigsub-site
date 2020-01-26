@@ -1,0 +1,85 @@
+I"å
+<div class="product">
+  <div class="product__information">
+    <h2 class="product__title">Starry Night</h2>
+    <img src="/assets/images/starry-night.jpg" alt="Starry Night product image" class="product__image" />
+    <p class="product__description">High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh.
+</p>
+    <div>
+  <label for="RZ-SN-qty">Quantity:</label>
+  <input type="number" id="RZ-SN-qty" class="qty" min="1" value="1" />
+  <button class="buy-button snipcart-add-item" data-item-quantity="1" data-item-id="RZ-SN" data-item-name="Starry Night" data-item-price="79.95" data-item-image="/assets/images/starry-night.jpg" data-item-url="https://demo.snipcart.com/" data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh.
+" data-item-custom1-name="Frame color" data-item-custom1-options="Black|Brown|Gold[+300.00]">
+    Buy 1 physical copy ($79.95)
+  </button>
+</div>
+
+
+
+<button class="buy-button snipcart-add-item" data-item-id="RZ-SN-DIGITAL" data-item-file-guid="09e589c7-3d18-4c2e-9cee-4f447e9f054a" data-item-name="Starry Night - Digital copy (JPG)" data-item-price="59.95" data-item-image="/assets/images/starry-night.jpg" data-item-url="https://demo.snipcart.com/" data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh.
+">
+  Buy digital copy (JPG) ($59.95)
+</button>
+
+
+
+  </div>
+  <img src="/assets/images/starry-night.jpg" alt="Starry Night product image" class="product__image" />
+</div>
+
+<div class="product">
+  <div class="product__information">
+    <h2 class="product__title">Irises</h2>
+    <img src="/assets/images/irises.jpg" alt="Irises product image" class="product__image" />
+    <p class="product__description">Irises is yet again, another painting by the Dutch artist Vincent van Gogh.
+</p>
+    <div>
+  <label for="RZ-IR-qty">Quantity:</label>
+  <input type="number" id="RZ-IR-qty" class="qty" min="1" value="1" />
+  <button class="buy-button snipcart-add-item" data-item-quantity="1" data-item-id="RZ-IR" data-item-name="Irises" data-item-price="64.95" data-item-image="/assets/images/irises.jpg" data-item-url="https://demo.snipcart.com/" data-item-description="Irises is yet again, another painting by the Dutch artist Vincent van Gogh.
+" data-item-custom1-name="Frame color" data-item-custom1-options="Black|Brown|Gold[+300.00]">
+    Buy 1 physical copy ($64.95)
+  </button>
+</div>
+
+
+
+<button class="buy-button snipcart-add-item" data-item-id="RZ-IR-DIGITAL" data-item-file-guid="66edfe7f-0851-4418-93e8-785975df7318" data-item-name="Irises - Digital copy (JPG)" data-item-price="44.95" data-item-image="/assets/images/irises.jpg" data-item-url="https://demo.snipcart.com/" data-item-description="Irises is yet again, another painting by the Dutch artist Vincent van Gogh.
+">
+  Buy digital copy (JPG) ($44.95)
+</button>
+
+
+
+  </div>
+  <img src="/assets/images/irises.jpg" alt="Irises product image" class="product__image" />
+</div>
+
+<div class="product">
+  <div class="product__information">
+    <h2 class="product__title">Branches with Almond Blossom</h2>
+    <img src="/assets/images/almond.jpg" alt="Branches with Almond Blossom product image" class="product__image" />
+    <p class="product__description">Branches with Almond Blossom is another van Gogh painted in 1890.
+</p>
+    <div>
+  <label for="RZ-BAB-qty">Quantity:</label>
+  <input type="number" id="RZ-BAB-qty" class="qty" min="1" value="1" />
+  <button class="buy-button snipcart-add-item" data-item-quantity="1" data-item-id="RZ-BAB" data-item-name="Branches with Almond Blossom" data-item-price="99.95" data-item-image="/assets/images/almond.jpg" data-item-url="https://demo.snipcart.com/" data-item-description="Branches with Almond Blossom is another van Gogh painted in 1890.
+" data-item-custom1-name="Frame color" data-item-custom1-options="Black|Brown|Gold[+300.00]">
+    Buy 1 physical copy ($99.95)
+  </button>
+</div>
+
+
+
+<button class="buy-button snipcart-add-item" data-item-id="RZ-BAB-DIGITAL" data-item-file-guid="79b1504d-9127-4e7f-bcdb-dff84a337775" data-item-name="Branches with Almond Blossom - Digital copy (JPG)" data-item-price="79.95" data-item-image="/assets/images/almond.jpg" data-item-url="https://demo.snipcart.com/" data-item-description="Branches with Almond Blossom is another van Gogh painted in 1890.
+">
+  Buy digital copy (JPG) ($79.95)
+</button>
+
+
+
+  </div>
+  <img src="/assets/images/almond.jpg" alt="Branches with Almond Blossom product image" class="product__image" />
+</div>
+:ET
